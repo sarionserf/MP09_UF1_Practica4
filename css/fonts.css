@@ -1,0 +1,87 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Montserrat:wght@100&display=swap');
+.Georgia{
+    font-family: Georgia;
+    font-size:x-large;
+
+}
+
+.PalatinoLinotype{
+    font-family: 'Palatino Linotype';
+    font-style: oblique;
+    font-size: 52px;
+}
+
+
+.TimesNewRoman{
+
+    font-family: 'Times New Roman';
+    font-weight: bolder;
+    font-size: 50pt;
+}
+
+.arial{
+
+    font-family: Arial;
+    text-shadow: 2px 2px  blue ;
+    font-size: 10em;
+
+}
+
+.tahoma{
+
+    font-family: Tahoma;
+    text-decoration:line-through green;
+    font-size: 10%;
+}
+
+.FontFaceOpen-sans{
+
+    font-family: 'Open Sans';
+    text-overflow: ellipsis;
+    font-size: 10vh;
+
+}
+
+.DancingScript{
+
+    font-family: 'Dancing Script';
+    text-align: justify;
+    font-size: 10vw;
+
+}
+
+.Montserrat{
+
+    font-family: 'Montserrat';
+    line-height: revert;
+    font-size: 10vmax;
+
+}
+
+.AguafinaScript{
+
+    -webkit-text-fill-color: #f50000;
+    -webkit-text-stroke-width: thin;
+    -webkit-text-stroke-color: aqua;
+    font-size: 10vmin;
+
+}
+
+.icon1{
+
+    background-color: #f50000;
+    padding: 20px;
+}
+
+.icon2{
+    background-color: #106714;
+    padding: 20px;
+
+}
+
+.icon3{
+    background-color: #cc9b28;
+    padding: 20px;
+
+}

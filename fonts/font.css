@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Aguafina Script';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/Aguafina-Script-Regular.eot'); /* IE9 */
+  src: url('../fonts/Aguafina-Script-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/Aguafina-Script-Regular.woff2') format('woff2'), /* Modern Browsers */
+    url('../fonts/Aguafina-Script-Regular.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/Aguafina-Script-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/Aguafina-Script-Regular.svg#AguafinaScript') format('svg'); /* Legacy iOS */
+}
